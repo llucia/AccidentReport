@@ -11,3 +11,4 @@ app/logs/dev.log
 .ap_
 /nbproject/private/
 bin/ 
+bin
