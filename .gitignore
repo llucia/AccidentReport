@@ -1,0 +1,13 @@
+app/cache
+.buildpath
+.project
+.settings
+UOC003.sql
+logs
+app/logs/dev.log 
+*.db
+.apk
+.dex
+.ap_
+/nbproject/private/
+bin/ 
